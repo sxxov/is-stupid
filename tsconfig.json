@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"module": "esnext",
+		"target": "esnext",
+		"importsNotUsedAsValues": "error",
+		"sourceMap": true,
+		"moduleResolution": "node",
+		"lib": ["es6", "es2017", "ES2015", "ESNext"],
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"outDir": ".tsc",
+		"experimentalDecorators": true,
+		"rootDir": "src"
+	},
+	"include": [
+		"**/*.ts"
+	],
+    "exclude": [
+		"node_modules",
+		"dist"
+	]
+}
