@@ -11,7 +11,8 @@
 		"strict": true,
 		"outDir": ".tsc",
 		"experimentalDecorators": true,
-		"rootDir": "src"
+		"rootDir": "src",
+		"declaration": true
 	},
 	"include": [
 		"**/*.ts"
