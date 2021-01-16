@@ -1,4 +1,4 @@
-# Is stupid [![npm version](https://badge.fury.io/js/is-stupid.svg)](https://badge.fury.io/js/is-true)
+# Is stupid [![npm version](https://badge.fury.io/js/is-stupid.svg)](https://badge.fury.io/js/is-stupid)
 
 ```
 A package to figure out if one is stupid.
